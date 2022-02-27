@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament, for raising moneys to be imployed for the maintenance of the forces under the command of Sir Thomas Fairfax Knight. 20 Martii, 1647. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83118</idno>
+            <idno type="STC">Wing E1912</idno>
+            <idno type="STC">Thomason E432_21</idno>
+            <idno type="STC">ESTC R206156</idno>
+            <idno type="EEBO-CITATION">99865333</idno>
+            <idno type="PROQUEST">99865333</idno>
+            <idno type="VID">117572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament, for raising moneys to be imployed for the maintenance of the forces under the command of Sir Thomas Fairfax Knight. 20 Martii, 1647. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 23. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117572:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE Lords &amp; Commons Aſſembled in PARLIAMENT, FOR Raiſing Moneys to be imployed for the maintenance of the Forces under the Command of Sir <hi>Thomas Fairfax</hi> Knight.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>20 Martii, 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>March</hi> 23. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:117572:2"/>
+            <pb n="3" facs="tcp:117572:2"/>
+            <head>AN ORDINANCE OF THE LORDS &amp; COMMONS Aſſembled in Parliament, For Raiſing Moneys to be imployed for the maintenance of the Forces un<g ref="char:EOLhyphen"/>der the Commnand of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> Knight.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, for the due paying of ſuch Forces under the Command of Sir <hi>Thomas Fairfax</hi> Knight (as the great and many dangers and di<g ref="char:EOLhyphen"/>ſtempers do require to be kept up within this King<g ref="char:EOLhyphen"/>dom for the preſent) and to the end that the Sub<g ref="char:EOLhyphen"/>jects in this Kingdom may not be impoveriſhed by F<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e quarter, but that all Officers and Soldiers may juſtly and duly pay and diſcharge their Quar<g ref="char:EOLhyphen"/>ters, Do Order and Ordain, and be it therefore Ordered and Ordained by the ſaid Lords and Commons in Parliament aſſembled, and by Authority of the ſame, That the ſum of Sixty
+<pb n="4" facs="tcp:117572:3"/>thouſand pounds <hi>per menſem,</hi> by the ſeveral ſums of Money hereafter mentioned, ſhall be Moneth<g ref="char:EOLhyphen"/>ly (according to the ordinary computation) Taxed, Collected, Leavied, and Paid for the purpoſes aforeſaid, from the Twenty fifth day of <hi>March,</hi> 1648. until the Nine and twentieth day of <hi>September</hi> thence next following, in ſuch maner and form as is Mentioned, Expreſſed, and Decla<g ref="char:EOLhyphen"/>red in an Ordinance of Parliament of the Three and twentieth of <hi>June,</hi> 1647. Entituled, <hi>An Ordinance of the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, for the Raiſing of Moneys to be imployed towards the Maintenance of Forces within this King<g ref="char:EOLhyphen"/>dom, under the Command of Sir</hi> Thomas Fairfax <hi>Knight.</hi>
+            </p>
+            <p>
+               <hi>VIZ.</hi>
+VPon the county of Bedford, the monethly ſum of ſix hundred ſeventy three pounds thir<g ref="char:EOLhyphen"/>teen ſhillings, eleven pence three farthings.</p>
+            <p>Upon the county of Berks, the monethly ſum of ſix hundred eighty three pounds, fifteen ſhil<g ref="char:EOLhyphen"/>lings and nine pence.</p>
+            <p>Upon the county of Buckingham, the monethly ſum of eight hundred fifteen pounds, eight ſhil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>Upon the county of Cambridge, the monethly ſum of One thouſand four hundred ſixty two pounds, ſixteen ſhillings ſix pence farthing.</p>
+            <p>Upon the Iſle of <hi>Ely,</hi> the monethly ſum of Four hundred ninety pounds, eighteen ſhillings one half peny.</p>
+            <p>
+               <pb n="5" facs="tcp:117572:3"/>
+Upon the county of Cheſter, the monethly ſum of Three hundred forty five pounds, four ſhil<g ref="char:EOLhyphen"/>lings eleven pence farthing.</p>
+            <p>Upon the city and county of Cheſter, the monethly ſum of Thirty nine pounds, thirteen ſhillings and eleven pence.</p>
+            <p>Upon the county of Comwal, the monethly ſum of One thouſand two hundred twenty eight pounds, five ſhillings ſix pence farthing.</p>
+            <p>Upon the county of Cumberland, the moneth<g ref="char:EOLhyphen"/>ly ſum of Seventy ſeven pounds, one peny three farthings.</p>
+            <p>Upon the county of Derby, the monethly ſum of Three hundred forty two pounds, nine ſhillings four pence.</p>
+            <p>Upon the county of Devon, the monethly ſum of Three thouſand five hundred twenty ſeven pounds, ſix ſhillings peny half peny.</p>
+            <p>Upon the city and county of Exon, the moneth<g ref="char:EOLhyphen"/>ly ſuch of One hundred twenty ſeven pounds, nine ſhillings two pence farthing.</p>
+            <p>Upon the county of Dorſet, the monethly ſum of Nine hundred thirty five pounds, ten ſhillings ten pence three farthings.</p>
+            <p>Upon the town and county of Pool, the moneth<g ref="char:EOLhyphen"/>ly ſum of nine pounds ſixteen ſhillings, ſeven pence half peny.</p>
+            <p>Upon the county of Durham, the monethly ſum of One hundred fifty nine pounds, two ſhillings.</p>
+            <p>Upon the county of York, and the city and county of York, the monethly ſum of Two thou<g ref="char:EOLhyphen"/>ſand
+<pb n="6" facs="tcp:117572:4"/>two hundred ſixty pounds, nineteen ſhillings two pence.</p>
+            <p>Upon the town and county of Kingſton upon Hull, the monethly ſum of Fifty pounds, eighteen ſhillings nine pence.</p>
+            <p>Upon the county of Eſſex, the monethly ſum of Four thouſand five hundred forty ſeven pounds, nine ſhillings five pence.</p>
+            <p>Upon the county of Gloceſter, the monethly ſum of One thouſand two hundred twelve pounds, three ſhillings ſix pence three farthings.</p>
+            <p>Upon the city and county of Gloceſter, the monethly ſum of One hundred thirty four pounds, thirteen ſhillings nine pence.</p>
+            <p>Upon the county of Hereford, the monethly ſum of Eight hundred ſixty eight pounds, two ſhil<g ref="char:EOLhyphen"/>lings three pence.</p>
+            <p>Upon the county of Hertford, the monethly ſum of One thouſand ſix hundred thirty eight pounds, fifteen ſhillings five pence three farthings.</p>
+            <p>Upon the county of Huntington, the monethly ſum of Six hundred eighty ſeven pounds, three ſhil<g ref="char:EOLhyphen"/>lings five pence three farthings.</p>
+            <p>Upon the county of Kent, with the city and county of Canterbury, and the cinque ports with<g ref="char:EOLhyphen"/>in the county of Kent, the monethly ſum of Four thouſand ſeven hundred ſixty three pounds, one ſhilling one peny.</p>
+            <p>Upon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> county of Lancaſter, the monethly <gap reason="illegible" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> hundred twenty nine pounds, three <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce.</p>
+            <p>Upon the county of Leiceſter, the monethly
+<pb n="7" facs="tcp:117572:4"/>ſum of Four hundred ſixty ſeven pounds, nine ſhillings ten pence half peny.</p>
+            <p>Upon the county of Lincoln (and the City and county of Lincoln) the monethly ſum of One thou<g ref="char:EOLhyphen"/>ſand ſix hundred thirty eight pounds, one ſhilling half peny.</p>
+            <p>Upon the city of London, the monethly ſum of Three thouſand nine hundred and ſeven pounds, nineteen ſhillings and two pence three farthings.</p>
+            <p>Upon the county of Middleſex, City and Li<g ref="char:EOLhyphen"/>berty of Weſtminſter, the monethly ſum of One thouſand five hundred twenty one pounds, ſeven<g ref="char:EOLhyphen"/>teen ſhillings nine pence.</p>
+            <p>Upon the county of Monmouth, the monethly ſum of One hundred ninety two pounds, nineteen ſhillings and one peny.</p>
+            <p>Upon the county of Northampton, the moneth<g ref="char:EOLhyphen"/>ly ſum of Five hundred ninety one pounds, eleven ſhillings eleven pence farthing.</p>
+            <p>Upon the county of Notingham, the monethly ſum of Three hundred fifty three pounds, nineteen ſhillings three pence.</p>
+            <p>Upon the town and county of Notingham, the monethly ſum of Eleven pounds, fourteen ſhil<g ref="char:EOLhyphen"/>lings ſix pence three farthings.</p>
+            <p>Upon the county of Norfolk, the monethly ſum of Four thouſand ſeven hundred ſixty three pounds, one ſhilling one peny.</p>
+            <p>Upon the city and county of Norwich, the monethly ſum of Two hundred forty ſix pounds, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhillings five pence three farthings.</p>
+            <p>Upon the county of Northumberland, the
+<pb n="8" facs="tcp:117572:5"/>monethly ſum of One hundred pounds, ſixteen ſhillings ten pence three farthings.</p>
+            <p>Upon the Town of Newcaſtle, the monethly ſum of Twenty nine pounds, ſeventeen ſhillings.</p>
+            <p>Upon the county of Oxon, the monethly ſum of ſeven hundred ſeventy nine pounds, thirteen ſhil<g ref="char:EOLhyphen"/>lings eleven pence three farthings.</p>
+            <p>Upon the county of Rutland, the monethly ſum of One hundred twenty eight pounds, one ſhilling and one farthing.</p>
+            <p>Upon the county of Salop, the monethly ſum of Five hundred fifty three pounds, nineteen ſhil<g ref="char:EOLhyphen"/>lings nine pence three farthings.</p>
+            <p>Upon the county of Stafford, and upon the city and county of the city of Litchfield, the moneth<g ref="char:EOLhyphen"/>ly ſum of Four hundred ſixty five pounds, ten ſhil<g ref="char:EOLhyphen"/>lings three farthings.</p>
+            <p>Upon the county of Somerſet, the monethly ſum of Two thouſand and fifty pounds, eleven ſhillings and five pence.</p>
+            <p>Upon the city and county of Briſtol, the moneth<g ref="char:EOLhyphen"/>ly ſum of One hundred and twelve pounds, twelve ſhillings ten pence half peny.</p>
+            <p>Upon the county of Southampton, the moneth<g ref="char:EOLhyphen"/>ly ſum of One thouſand five hundred and four<g ref="char:EOLhyphen"/>teen pounds, four ſhillings five pence farthing.</p>
+            <p>Upon the town and county of Southampton, the monethly ſum of Sixty two pounds, eight ſhil<g ref="char:EOLhyphen"/>lings one farthing.</p>
+            <p>Upon the Iſle of Wight, the monethly ſum of Two hundred and eight pounds, two ſhillings ſix pence farthing.</p>
+            <p>
+               <pb n="9" facs="tcp:117572:5"/>
+Vpon the county of Suffolk, the monethly ſum of Four thouſand ſeven hundred ſixty three pounds, one ſhilling and a peny.</p>
+            <p>Vpon the county of Surrey, with the Borough of Southwark, the monethly ſum of One thou<g ref="char:EOLhyphen"/>ſand three hundred forty ſeven pounds eight ſhil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>Vpon the County of Suſſex, and the ports within the county of Suſſex, the monethly ſum of Two thouſand ſix hundred forty ſix pounds, two ſhil<g ref="char:EOLhyphen"/>lings nine pence three farthings:</p>
+            <p>Vpon the county of Warwick, the monethly ſum of Six hundred twenty one pounds, three ſhil<g ref="char:EOLhyphen"/>lings ſix pence farthing.</p>
+            <p>Vpon the city and county of Coventry, the monethly ſum of Seventy nine pounds, nine<g ref="char:EOLhyphen"/>teen ſhillings.</p>
+            <p>Vpon the county of Worceſter, and upon the city and county of Worceſter, the monethly ſum of Seven hundred forty eight pounds, three ſhil<g ref="char:EOLhyphen"/>lings ſeven pence farthing.</p>
+            <p>Upon the county of Wilts, the monethly ſum of One thouſand four hundred twenty one pounds, eighteen ſhillings and nine pence farthing.</p>
+            <p>Upon the county of Weſtmerland, the moneth<g ref="char:EOLhyphen"/>ly ſum of Sixty ſix pounds, nine ſhillings two pence half peny.</p>
+            <p>Vpon the Iſle of Angleſey, the monethly ſum of Fifty pounds, ſeventeen ſhillings and ten pence.</p>
+            <p>Vpon the county of Brecknock, the monethly ſum of One hundred and three pounds, ſix ſhil<g ref="char:EOLhyphen"/>lings and eleven pence.</p>
+            <p>
+               <pb n="10" facs="tcp:117572:6"/>
+Vpon the county of Cardigan, the monethly ſum of One hundred twenty two pounds, nine ſhillings ten pence three farthings.</p>
+            <p>Vpon the county of Carmarthen, the moneth<g ref="char:EOLhyphen"/>ly ſum of One hundred pounds, fifteen ſhillings ſix pence.</p>
+            <p>Vpon the county of Carnarvan, the monethly ſum of Forty two pounds, ſix ſhillings five pence three farthings.</p>
+            <p>Vpon the county of Denbigh, the monethly ſum of Fifty four pounds, ſix ſhillings ten pence half peny.</p>
+            <p>Vpon the county of Flint, the monethly ſum of Thirty three pounds, ſix ſhillings four pence half peny.</p>
+            <p>Vpon the county of Glamorgan, the monethly ſum of One hundred thirty one pounds, fifteen ſhillings ten pence.</p>
+            <p>Vpon the county of Merioneth, the monethly ſum of thirty one pounds eleven ſhillings ſix pence.</p>
+            <p>Vpon the county of Montgomery, the moneth<g ref="char:EOLhyphen"/>ly ſum of One hundr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d twenty three pounds, two ſhillings eight pence farthing.</p>
+            <p>Vpon the county of Pembrook, the monethly ſum of One hundred ſixteen pounds, four ſhillings ſeven pence farthing.</p>
+            <p>Vpon the county of Radnor, the monethly ſum of Seventy three pounds, two ſhillings ſeven pence haf peny.</p>
+            <p>Vpon the town of Haverford. Weſt, the moneth<g ref="char:EOLhyphen"/>ly ſum of ten pounds, two ſhillings ſix pence three farthings.</p>
+            <p>
+               <pb n="11" facs="tcp:117572:6"/>
+And that the ſaid ſeveral ſums of Money may be duly Taxed, Leavied and Paid as is directed, Be it further Ordained by the Authority aforeſaid, That the Perſons named in an Ordinance of Parli<g ref="char:EOLhyphen"/>ament, Dated the ſixteenth day of <hi>February,</hi> 1647. Entituled, <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, for raiſing Twenty thouſand pounds a Moneth for the Relief of Ireland;</hi> And the perſons hereafter named, ſhall be Commiſſioners for the ſeveral and reſpective Counties, Cities and Places in the ſaid Ordinance mentioned and ex<g ref="char:EOLhyphen"/>preſſed, to put this Ordinance in execution in the ſaid ſeveral and reſpective Counties, Cities and Places, for which they are thereby reſpectively appointed Commiſſioners: And it is further Or<g ref="char:EOLhyphen"/>dained, That the ſaid reſpective Commiſſioners, in the ſaid ſeveral and reſpective Counties, Cities and Places, or any three or more of them, ſhall and may, for the more effectual proceeding in the ſaid Service, uſe, exerciſe, and put in execution, all and every the Powers and Authorities, given li<g ref="char:EOLhyphen"/>mited or appointed by and in an Ordinance of the three and twentieth of <hi>June,</hi> 1647. Entituled, <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, For the raiſing of moneys to be imployed towards the maintenance of Forces within this Kingdom, under the command of Sir</hi> Thomas Fairfax <hi>Knight, and for the ſpeedy tranſporting of and paying the Forces for carrying on the War in</hi> Ireland; and one other Or<g ref="char:EOLhyphen"/>dinance of the four and twentieth of <hi>December,</hi> 1647. Entituled <hi>An Ordinance for the ſeveral Commiſsioners in the reſpective Counties, to make a Col<g ref="char:EOLhyphen"/>lector
+<pb n="12" facs="tcp:117572:7"/>for the monethly Aſſeſſment of Threeſcore thouſand pounds.</hi> And it is further Ordered, That the per<g ref="char:EOLhyphen"/>ſons hereafter named ſhall be Commiſsioners added to the Commiſsoners mentioned as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <list>
+               <item>
+                  <list>
+                     <head>For the County of Berks,</head>
+                     <item>
+                        <hi>IOhn Blagrave, Richard Knollis,</hi> Eſquires, <hi>George Wooldridge, Peter Weaver</hi> Gent. The Major of Redding for the time being, and Mr. <hi>Thomas Bate<g ref="char:EOLhyphen"/>man</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Buckingham,</head>
+                     <item>Sir <hi>Peter Wentworth</hi> Knight of the Bath, <hi>George More, Robert Aldridge, John Green, Toby Terril, Francis Ingolsby, Edward Greenfield,</hi> and <hi>William Bowyer,</hi> Eſquires, <hi>Toby Terril</hi> 
+                        <abbr>Eſq</abbr> and <hi>Francis In<g ref="char:EOLhyphen"/>golsby.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Cheſhire,</head>
+                     <item>
+                        <hi>Edward Hide,</hi> Colonel <hi>John Leigh, Thomas Man<g ref="char:EOLhyphen"/>waring, Jonathan Brewen,</hi> Colonel <hi>Thomas Croxton,</hi> and <hi>Thomas Marbury,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Cornwal,</head>
+                     <item>
+                        <hi>William Griger,</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Cambridgeſhire,</head>
+                     <item>
+                        <hi>James Chennery</hi> and <hi>William Janes,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Durham,</head>
+                     <item>
+                        <hi>George Lilburn</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="13" facs="tcp:117572:7"/>
+                  <list>
+                     <head>Derbyſhire,</head>
+                     <item>
+                        <hi>Anthony Moorwood</hi> and <hi>Lionel Fanſhaw,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Eſſex,</head>
+                     <item>
+                        <hi>George Tompſon</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Hertfordſhire,</head>
+                     <item>
+                        <hi>William Brigs, Toby Combes, William Aſhton,</hi> 
+                        <abbr>Eſqs</abbr> The Major of Hertford for the time being.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Hereford,</head>
+                     <item>
+                        <hi>Bennet Hoskins,</hi> and <hi>Edmund Weaver,</hi> Eſquires; <hi>James Lane</hi> Gentleman, The Major of Hereford for the time being, <hi>Edward Freeman, Thomas Dunet, Iſaac Seward,</hi> Eſquires; <hi>Francis Hall, Walter Wall, John Cooper</hi> and <hi>John Hering,</hi> Gentlemen.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Ipſwich,</head>
+                     <item>
+                        <hi>Jacob Caly</hi> Gentleman.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Hampſhire,</head>
+                     <item>
+                        <hi>Humphrey Edwards, Robert Reynolds, Francis Allen,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Hull,</head>
+                     <item>
+                        <hi>John Anlaby, Chriſtopher Ledger</hi> 
+                        <abbr>Eſqs</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Lincolnſhire-Lindſey,</head>
+                     <item>
+                        <hi>William</hi> Lord <hi>Mounſon, Edward Nelthorp, Tho<g ref="char:EOLhyphen"/>mas Williamſon,</hi> Eſquires, <hi>Thomas Cuney</hi> Gent. <hi>Tho<g ref="char:EOLhyphen"/>mas
+<pb n="14" facs="tcp:117572:8"/>Welby</hi> Eſquire.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Middleſex,</head>
+                     <item>Sir <hi>Anthony Irby</hi> Knight.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Norfolk,</head>
+                     <item>
+                        <hi>Valentine Walton</hi> Eſquire, Col: <hi>Charls Fleetwood.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Notingham,</head>
+                     <item>
+                        <hi>John Oddingſels</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Northumberland and Newcaſtle,</head>
+                     <item>Sir <hi>Arthur Haſierig</hi> Baronet.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Oxon,</head>
+                     <item>Sir <hi>Thomas Read,</hi> Sir <hi>Francis Norris,</hi> Knights; <hi>George Greenwood, Henry Knap, John Tavernor, Ed<g ref="char:EOLhyphen"/>mond Lenthal</hi> and <hi>Walter Elwood,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Surrey,</head>
+                     <item>
+                        <hi>Thomas Scot, John Blackwel</hi> and <hi>Francis Allen,</hi> Eſquires; <hi>Peter de Laney, Henry Bradley,</hi> and <hi>William Hicocks,</hi> Gentlemen.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Wilts,</head>
+                     <item>
+                        <hi>Edward Michel, Edward Mildcot, George Dier, Wil<g ref="char:EOLhyphen"/>liam Temple, William Adlam, William Radiſh,</hi> Gent.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Worceſterſhire,</head>
+                     <item>
+                        <hi>William Ligon, John Egioke, Edward Pit, Henry Bramley</hi> of Vpton, <hi>Charls Cornwallis, Thomas Yong, Humphrey Greſwold, Daniel Dobbins,</hi> and <hi>Ta<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bot
+<pb n="15" facs="tcp:117572:8"/>Badger,</hi> Eſquires; The Major of Eveſham for the time being, Mr. <hi>William Martin</hi> of Eveſham, Gent.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Yorkſhire Eaſt-Riding,</head>
+                     <item>
+                        <hi>Philip Saltmarſh</hi> and <hi>John Tomlins,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>North-Riding,</head>
+                     <item>
+                        <hi>Robert Walters, John Oddingſels</hi> junior, Eſquires, Sir <hi>Henry Heyman</hi> Knight and Baronet.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Weſt-Riding,</head>
+                     <item>Sir <hi>Arthur Ingram</hi> Knight, <hi>Laurence Parſons</hi> and <hi>Sampſon Stanely,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Devon,</head>
+                     <item>
+                        <hi>John Rolle</hi> of Stevenſton <abbr>Eſq</abbr> 
+                        <hi>John Wollacomb, John Yeo, Robert Dillon,</hi> Eſquires, and Mr. <hi>William Nottle</hi> of Barnſtable, Merchant.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Suffolk,</head>
+                     <item>
+                        <hi>Henry Parker</hi> and <hi>John Branlin,</hi> Eſquires.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Norwich,</head>
+                     <item>
+                        <hi>VVilliam Goſselin</hi> Alderman.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Carnarvanſhire,</head>
+                     <item>
+                        <hi>John Bodarda</hi> 
+                        <abbr>Eſq</abbr> 
+                        <hi>Robert VVyn</hi> of Carnarvan Gent. <hi>VVilliam Thomas</hi> and <hi>VVilliam Stodarte,</hi> Gent.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>For the City of Bath,</head>
+                     <item>The Major for the time being, <hi>John Atwood, Thomas Burford, John Big, Matthew Clift,</hi> Alder<g ref="char:EOLhyphen"/>men;
+<pb n="16" facs="tcp:117572:9"/>
+                        <hi>John Parker</hi> and <hi>John Pierce,</hi> Gent.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Provided, That the proportions of Rates ſet upon the ſeveral counties in this Ordinance ex<g ref="char:EOLhyphen"/>preſſed, ſhall not be drawn into preſident for the time to come. Any thing in this Ordinance to the contrary notwithſtanding.</p>
+            <p>Provided, That the Town of <hi>Lyn</hi> in <hi>Norfolk</hi> pay no more then according to that proportion which the Committee of Lords and Commons for the Eaſtern Aſſociation ordered that Town ſhould pay, as by their Order of the twentieth of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1645. appeareth.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
